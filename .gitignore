@@ -1,0 +1,13 @@
+
+**/root
+**/modules
+**/plugins
+
+**/_*.*.*
+
+**/*.tfstate*
+**/*.lock*
+**/*.log*
+
+**/.*
+.*
