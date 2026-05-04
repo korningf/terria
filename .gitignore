@@ -11,3 +11,13 @@
 
 **/.*
 .*
+
+
+java-impl/target/
+
+dotnet-implt/main/bin/
+dotnet-implt/main/obj/
+
+dotnet-implt/test/bin/
+dotnet-implt/test/obj/
+
