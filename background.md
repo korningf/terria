@@ -1,5 +1,5 @@
 
-# outline
+# Outline
 
 
 we want to code a generic terraform registry in both java and dotnet.
@@ -62,7 +62,7 @@ registry/
 ```
 
 
-# detailed terraform registry structure 
+# Detailed Terraform Registry structure 
 
 
 ```text
