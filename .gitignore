@@ -15,9 +15,9 @@
 
 java-impl/target/
 
-dotnet-implt/main/bin/
-dotnet-implt/main/obj/
+dotnet-impl/main/bin/
+dotnet-impl/main/obj/
 
-dotnet-implt/test/bin/
-dotnet-implt/test/obj/
+dotnet-impl/test/bin/
+dotnet-impl/test/obj/
 
